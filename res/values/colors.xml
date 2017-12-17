@@ -20,4 +20,6 @@
     <color name="accent">#1a73e8</color>
 
     <color name="white">#ffffff</color>
+
+    <color name="icon_background">@android:color/black</color>
 </resources>
