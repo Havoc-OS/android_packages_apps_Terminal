@@ -30,6 +30,7 @@
         android:required="false" />
 
     <application
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_label"
         android:enabled="false">
 
